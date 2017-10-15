@@ -16,6 +16,7 @@ namespace Hello
             {
                 Console.WriteLine("Liczba " + i);
             }
+            Console.ReadKey();
         }
     }
 }
